@@ -19,3 +19,7 @@ server/     Python-сервер синхронизации
 deploy/     скрипт установки и docker-compose
 docs/       предложение, ADR
 ```
+
+## Лицензия
+
+AGPL-3.0, см. [LICENSE](LICENSE).
